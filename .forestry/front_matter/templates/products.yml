@@ -1,0 +1,7 @@
+---
+label: products
+hide_body: true
+fields:
+- type: list
+  name: blocks
+  label: blocks
