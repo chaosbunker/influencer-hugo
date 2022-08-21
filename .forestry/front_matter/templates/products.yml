@@ -5,3 +5,5 @@ fields:
 - type: list
   name: blocks
   label: blocks
+  config:
+    use_select: false
